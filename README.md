@@ -7,5 +7,5 @@
   any custom rom that you can name for the Verizon variant of the S5. (SM-G900V)
   For eample I use CyanogenMod 14 (Which is no longer available) on my phone.
   
-    If you are new to the whole rooting thing please see guide one and if you
-    have been a super user before, the go ahead and do your thing.
+  If you are new to the whole rooting thing please see the file titled guide, and if you
+  have been a super user before, the go ahead and do your thing.
