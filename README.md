@@ -11,4 +11,4 @@
   have been a super user before, the go ahead and do your thing.
   
   
-  here is the link for the G900V_OE1_Stock_Rooted_ROM.zip file:  https://goo.gl/AvzE8d
+  Here is the link for the G900V_OE1_Stock_Rooted_ROM.zip file:  https://goo.gl/AvzE8d
