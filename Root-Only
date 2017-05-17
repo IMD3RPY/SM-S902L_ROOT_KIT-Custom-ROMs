@@ -1,0 +1,19 @@
+1) Move Files to SD Card
+  A) Mvoe UPDATE-SuperSU-v2.79-20161211114519.zip to root of SD Card
+
+2) Install Root
+  A) Turn your phone off
+  B) Hold volume up,home button, and turn your phone back on
+  C) If there is a slider, slide it to the right to allow full access
+  D) Select Install
+  E) Make sure that you select SD Card if it says Internal Storage
+  F) Make sure that it says Select ZIP, NOT Select IMG
+  G) Select UPDATE-SuperSU-v2.79-20161211114519.zip and slide to install
+  H) Select Reboot
+  I) Open the GooglePlaystore
+  J) Search for SuperSU, It will be by ChainFire
+  K) If it needs installed or updated you need to do so
+  L) Go to the home screen and select your app tray
+  M) Open SuperSU and wait for it to finalize
+  N) No need to disable knox
+  O) TA-DA, you have root!
