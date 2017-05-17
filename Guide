@@ -1,0 +1,42 @@
+1) Boot Into Download Mode
+  A) Turn your phone off
+  B) Hold the home button and the volume down button
+  C) While holding the buttons turn the phone back on
+  D) If there is a warning screen push the volume up button
+  
+  
+2) Flash The Custom Recovery
+  A) Open Odin3 v3.11.1
+  B) Attach your device using the origional usb
+  C) Click the button labled AP
+  D) Locate the file labled twrp-3.1.0-1klte.img
+  E) Select Start and wait for it to say SUCCESS
+  
+3) Create an Optional but RECOMMENDED Backup
+  A) Turn your phone off
+  B) Hold volume up,home button, and turn your phone back on
+  C) If there is a slider, slide it to the right to allow full access
+  D) Select Backup
+  E) Select everything and then slide the slider on the bottom
+  F) Click the back button to go back to the main screen
+  
+ OPTIONAL) If you dont want a custom rom, just root see
+           the Root-Only file
+           
+4) Install Custom Rom
+  A) Put the G900V_OE1_Stock_Rooted_ROM.zip file on the root of your SD card, 
+     and also any custom rom that you want that is for a SM-G900V
+  B) Hold volume up,home button, and turn your phone back on
+  C) If there is a slider, slide it to the right to allow full access
+  D) Select Install
+  E) Make sure that you select SD Card if it says Internal Storage
+  F) Make sure that it says Select ZIP, NOT Select IMG
+  G) Select G900V_OE1_Stock_Rooted_ROM.zip and slide to install
+  H) Wait for it to install then select Wipe cache/dalvik
+  I) Click the back button to go to the main screen of TWRP
+  J) Select Install
+  K) Make sure that you select SD Card if it says Internal Storage
+  L) Make sure that it says Select ZIP, NOT Select IMG
+  M) Select G900V_OE1_Stock_Rooted_ROM.zip and slide to install
+  N) Wait for it to install then select Wipe cache/dalvik
+  O) After it finishes, click reboot, and you are done!
